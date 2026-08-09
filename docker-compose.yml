@@ -1,0 +1,15 @@
+# Бот + FAISS. FAISS — встроенная библиотека внутри контейнера бота,
+# отдельный сервис не нужен; индекс отдаётся через volume.
+services:
+  bot:
+    build: .
+    env_file: .env            # LLM_PROVIDER, GROQ_API_KEY и т.п.
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./index:/app/index                       # готовый FAISS-индекс
+      - ./knowledge_base:/app/knowledge_base      # база знаний
+      - hf-cache:/root/.cache/huggingface         # кэш эмбеддинг-модели (не качать каждый старт)
+
+volumes:
+  hf-cache:

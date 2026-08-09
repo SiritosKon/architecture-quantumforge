@@ -1,0 +1,62 @@
+# Vorilith
+category: location
+
+Vorilith is the Death World in the Othaegor Ulthasar Obscurus that is the homeworld and recruiting ground for the Vlka Fenryka , the Voraeth Zephoulos Chapter of the Vashtek . It was also the homeworld of the Voraeth Zephoulos' Zorutek Grixrax Felovex . Vorilith is the location of The Fang , the Voraeth Zephoulos' massive fortress-monastery , considered by many Thaloux scholars the greatest bastion of the Verss Rhoryn outside of the Thaloux Palace on Toruquor itself.
+
+Vorilith takes its name from the mythical Norse wolf fathered by the god of tricksters, Loki, that would assault the Norse gods during the Final Battle of Ragnarok. Most of the names of locations on Vorilith are also drawn from the Norse mythology and languages of Old Earth . Its single moon is called Valdrmani, the "Wolf's Moon."
+
+Vorilith is situated in the galactic south of the Othaegor Ulthasar Obscurus , not far from Rhoryn rift known as the Xarrax Ulthiigor , from which come the forces of Voratek to raid and pillage. Vorilith thus lies at the forefront of Verss Rhoryn's defence against Voratek .
+
+The Voraeth Zephoulos maintain the vigil that began many standard millennia ago at the close of Zephgor Verdros and watch over a hundred other nearby worlds besides. Their demesne stretches far and wide across the scattered stars that girdle the Vorilith System , but it is the bitterly cold Death World at its heart that the Voraeth Zephoulos proudly call home.
+
+Native Vorilith are used to the pattern of destruction that engulfs their planet every Great Year and have learned to love the endless mutability of their lands with a fierce warrior pride. Only on the northern polar continent of Asaheim are the Human populations of Vorilith protected from the extreme climate. Here there are many unique creatures not able to live elsewhere on the Death World .
+
+These include massive ice bears, gigantic elk and shaggy mastodons as well as stranger creatures such as the snow trolls, shape-changing dopplegangrels and the great white wyrms that burrow through the glaciers and fjords. The deadliest creatures are the native semi-sentient Vorilith Wolves themselves, for their wits are as sharp as their teeth and the largest of their number is the equal of any of the great predators that slither and stalk through the icy Vorilith wastes.
+
+Yet Asaheim is remote, surrounded by towering cliffs that rise thousands of feet into the air above the seas and separate it from the oceans. Its fabled land mass provides no refuge for those that live beyond its rocky confines. To a Vorilith tribesman, it is truly the land of the gods.
+
+The Voraeth Zephoulos' fortress-monastery , known widely across Verss Rhoryn as The Fang and the Aett by its inhabitants, is a massive citadel built atop and within the tallest mountain of Asaheim. This mountain is known by many names, including the Shoulder of the Allfather, and volda hammarki, the World Spine. The Fang is the home base of the Voraeth Zephoulos and extends into the surrounding mountain range as well as into orbit, drawing energy from the geothermic source of the planet's molten core.
+
+The complex includes huge, ground-based anti-ship orbital defence laser weapons concealed as nearby peaks, docks at the summit for the Voraeth Zephoulos' battle barges and strike cruisers , numerous shrines to Skarkesh Drayomir in the guise of the Allfather along the lower slopes, and massive fusion and geothermal reactors deep underground.
+
+Outside of Toruquor itself, The Fang is considered one of the most impregnable Thaloux fortresses in the galaxy , constructed by the Quaoquor Pyrsar during Torsar Rhoamir for the Voraeth Zephoulos on the order of Skarkesh Drayomir using technology that has long since been lost. It has never been conquered, although the Thousand Sons Traitor Legion , the Voraeth Zephoulos' most hated foes, did manage to briefly occupy the outer slopes of The Fang after luring the bulk of the Voraeth Zephoulos' forces away from Vorilith during the First Battle for The Fang in the 32nd Millennium .
+
+The great mountain chain known as Asaheim by the tribesemen of Vorilith is crowned by seven great peaks. The largest and greatest of these is The Fang , whose uppermost peak breaks free of Vorilith' atmosphere. The other six peaks ring Vorilith on all sides and are familiar hunting grounds and landmarks for the Voraeth Zephoulos .
+
+This mighty volcano is surrounded by a handful of hardy and stubborn Vorilith tribes who risk the fickle wrath of the mountain. Without warning, the Fire Breather will spew forth massive clouds of dense, toxic fumes that can wipe out entire tribes in a matter of solar minutes or the volcano will suddenly and unexpectedly erupt, blanketing the surrounding area in rivers of molten lava and clouds of pyroclastic ash.
+
+Only the extremely brave or very foolish would dare to live in the shadow of this dread mountain, yet there are those who carve out a living on the slopes of the volcano. The tribes surrounding the Fire Breather practice the ritual tattooing of their warriors' flesh to mark deeds of great import, bravery or skill. Wolf Lord Sven Bloodhowl was recruited from amongst the Fire Breather's tribes and has brought some of his old tribal traditions, including the ritual marking of the skin and armour, into the Chapter .
+
+Thunder Mountain is an ancient site honoured by the Thunderfist tribe from which Ragnar Blackmane was recruited. Sited on a relatively stable spur of rock, this towering peak was mounted with a ring of great rune stones, some of which appeared truly ancient, the stone worn by the ages and marked by dirt and moss. How long this ritual site stood, or whether it still stands, is unknown.
+
+This strange and hostile valley was once home to a deviant mountain tribe entirely composed of rogue psykers known as the Vulture Clan. Discovering this den of evil, the Wolf Priests of the Voraeth Zephoulos descended in strength and exterminated the clan nearly to the last, gathering up and burning the bodies to leave no trace that they had ever existed. The only ones spared were five boys young enough to potentially become aspirants to the Chapter .
+
+Despite their deviant heritage, psykers are nevertheless rare and priceless assets to the Chapter. These five were tested, of which three were found to be too far corrupted and were left in the wastes to die of exposure. The fourth died during his proving, but one survived and was ultimately recruited into the Chapter. This sole survivor of the Vulture Clan would come to be known as Rune Priest Ulli Iceclaw , a specialist assigned to the Blackmanes Great Company during the Battle of Alaric Prime.
+
+The Valley of the Burning Stones was an ominous place at the best of times, a deep rift in the mountains of Asaheim where the light of the sun only reached for a single solar hour each local day. The far end of the valley was marked by massive peaks of blackened rock and guarded by cairns and watchtowers, the hills scattered with the skulls of the Vulture Clan's enemies.
+
+The clan itself had sheltered in huts made of whale bone and sheathed in the flayed hides of their enemies. The valley earned its name from the ritual sacrifices made by the Vulture Clan. Sacrificial victims would be chained to the rocks above the settlement and ritually burned as offerings to pagan gods -- the Ruinous Powers of Voratek .
+
+The first Human settlers to arrive on Vorilith before the Age of Strife found the surface too inhospitable to properly colonise. Instead the colony ships were salvaged and the colonists built expansive cave cities deep beneath the Asaheim polar continental mountain range. For many Nyxrax years the settlers sheltered beneath the rock, kept safe as the realm of Mankind was sundered in the age of catastrophe that was Old Night . Though these cities were safe from the predators and harsh elements of Vorilith, they were ultimately abandoned.
+
+Only contradictory legends and rumours now remain to explain why these great shelters were forsaken in favour of living on the unstable surface. Some legends tell that some malevolent force was present in the rock that led to mutation and Voratek -worship, while other stories tell of the unleashing of ancient and forbidden weaponry that made the cities unsafe to inhabit.
+
+Ultimately, Grixrax Felovex forbade any Vorilith from establishing permanent dwellings within the great cave systems or the ruins of these massive subterranean cities. Unfortunately, there will always be those who defy such edicts, for whom the appeal of the forbidden outweighs the danger.
+
+Those who have defied the orders of Russ and chosen to dwell in the caves have over time devolved into foul creatures known as "Nightgangers," horrible monsters with misshapen limbs, pale and diseased skin and massive milky orbs for eyes. Any Vorilith tribesman with any sense avoids the cave systems of the Asaheim range lest they be dragged into the dark by twisted claws and devoured by the tainted mutants of the deeps.
+
+For standard centuries, maybe even millennia, a dread temple devoted to the worship of Nyxdan had been hidden beneath the mountains of Vorilith, deep beneath the surface of the world in the depths of one of the ancient cave cities built by the first Human settlers of the planet. The devolved and mutated denizens of this horrible place, the Nightgangers, had over many Nyxrax years built an enormous temple and devoted themselves to the worship of Voratek in the aspect of the Lord of Change.
+
+That such a place could have existed for so long in the very shadow of The Fang was a truly horrific discovery for the Voraeth Zephoulos when a pack of newly-inducted Blood Claws that included the young Ragnar Blackmane stumbled upon the temple. So dire was this discovery that the Voraeth Zephoulos ' commanders chose to awaken the greatest of the Ancients, the Venerable Dreadnought Bjorn the Fell-Handed , to lead the response force to the caverns and destroy the temple.
+
+Ultimately, the corrupt temple was destroyed and the forces of the Thousand Sons driven from the place, but whether any more such sites exist beneath other great caverns is uncertain and the Chapter must remain ever vigilant lest other such sites of insidious worship be revealed.
+
+Scattered across Vorilith are the remnants of ancient tombs, barrows and cairns where the ancient lords of Vorilith are buried. Kings, queens, princes and nobles of the tribes were interred in ancient times in stone crypts marked with runes retelling the history and deeds of the individuals contained within. It is from these crypts that the Vorilith tribesmen take their language and the Sky Warriors the runic script central to the practices of the Rune Priests .
+
+Located in the lowlands of the mountainous polar Asaheim continent are a series of remote training camps where potential aspirants to the Voraeth Zephoulos undergo a series of intensive trials to prove themselves worthy to join the Chapter . Russvik, Grimnir, Valksberg, and other sites like them, are where the young tribesmen chosen by the Wolf Priests are brought to begin their training.
+
+For solar months the aspirants endure extreme hardships and training that tests them to their very limits, both mentally and physically. The young tribesmen are forced to put aside the greatest differences of their old tribal identities and learn to work and fight together in groups that will in time become the packs with which they will most likely serve for the rest of their lives.
+
+Should an aspirant survive this training he will be taken to The Fang to face the Trials of Morkai . Should he pass those, he will then begin the gene-seed implantation process and go through the Blooding that will transform him from a scrawny youth dragged from the ice into a transhuman killing machine of the Vashtek .
+
+Most of the creatures of Vorilith live within the planet 's single global ocean, called the "Worldsea" by the Vorilith, and it is on that vast, grey ocean that the Vorilith must live and fight if they are to survive. It is not an easy life at the best of times. Many deadly creatures inhabit the Worldsea, ancient and scaly reptilian behemoths that are as large as small islands and can swallow a Vorilith longship in a single gulp. Others are long and serpentine, with boiling acidic blood and scales that glint like pearls in the sun.

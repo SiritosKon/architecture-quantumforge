@@ -1,0 +1,22 @@
+# Core RAG stack (Задание 1: all-MiniLM-L6-v2 + FAISS через LangChain)
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+python-dotenv
+
+# LLM-провайдеры (Задание 4: выбор через LLM_PROVIDER) + интерфейс FastAPI
+langchain-groq
+langchain-openai
+langchain-ollama
+fastapi
+uvicorn[standard]
+
+# Подготовка базы знаний (Задание 2)
+requests
+beautifulsoup4
+lxml
+faker
+python-slugify
